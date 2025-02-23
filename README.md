@@ -1,6 +1,8 @@
 # BiGRU_Sentiment_Analysis
 Sentiment Analysis using a Bi-directional Gated Recurrent Unit
 
+*More detailed information can be found results.ipynb
+
 The project tries to 
 1. Compare the effects of word level embeddings and subword level embeddings when used to represent datat in the Financial Sentiment Analysis dataset
 2. Try to use word2vec embeddings on Amazon User Feedback data
@@ -31,6 +33,9 @@ The subword embeddings enables shorter encoding sizes, compositionality of subwo
 
 ## Amazon User Feedback Dataset
 Could not get the model to converge
+
+
+
 
 
 <a id="1">[1]</a> 
